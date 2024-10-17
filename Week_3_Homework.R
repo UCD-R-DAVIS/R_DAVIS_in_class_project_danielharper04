@@ -24,8 +24,8 @@ head(surveys,1)
 surveys[,1]
 surveys[1,]
 
-install.packages('tidyverse')
-library(tidyverse)
+#install.packages('tidyverse')
+#library(tidyverse)
 
 ##
 
